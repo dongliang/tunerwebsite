@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-
+h1{font-family:'微软雅黑';font-weight:normal;color:#fbe173;font-size:25pt;padding-bottom:10px}
 html{overflow-x:hidden; }
 body{ width:100%; background:#000 ;}
 .qs2_logo_lk a,.qs2_logo_bg{top:15px;left:30px; z-index: 100;}
@@ -90,7 +90,9 @@ img{border:none;vertical-align:middle;}
 
 
 /*介绍*/
-.Jieshao{float:left;width:840px;height:500px;padding-top:100px;padding-left:60px;font-family:'微软雅黑';color:#FFCC99;overflow:hidden;}
+.Jieshao{float:left;width:840px;padding-top:10px;padding-left:60px;padding-bottom:20px;font-family:'微软雅黑';color:#FFCC99;overflow:hidden;}
+
+.kongge{float:left;width:840px;padding-top:20px;padding-left:60px;padding-bottom:40px;font-family:'微软雅黑';color:#FFCC99;overflow:hidden;}
 .Jieshao ol{float:left;margin-left:30px;background:url("../images/xh.png"/*tpa=http://cq176.8090999.net/images/xh.png*//*tpa=http://3.4.pl.wyxs365.com/images/xh.png*/) no-repeat left 8px ;}
 .Jieshao ol li{float:left;width:900px;line-height:30px;margin-left:35px;font-size:16px;font-family:'微软雅黑';display:block;}
 .Jieshao ol li strong{font-family:'微软雅黑';font-weight:normal;color:#FFCC99;}
@@ -168,11 +170,11 @@ background: url("images/mobile.jpg"/*tpa=http://cq176.8090999.net/css/images/mob
 
 /*新建*/
 .xinwen_box {  background:url("../images/bg00.png"/*tpa=http://cq176.8090999.net/images/bg00.png*//*tpa=http://3.4.pl.wyxs365.com/images/bg00.png*/) no-repeat; height:750px; width:1000px;   }
-#Version{width:100%;height:700px;position:relative; overflow:hidden;}
-#Flash{width:1920px;height:700px;position:absolute;left:50%;margin:0px auto -272px -960px;z-index:1;}
+#Version{width:100%;height:820px;position:relative; overflow:hidden;}
+#Flash{width:1920px;height:700px;}
 #Header{margin:0 auto -290px -960px;width:1920px;height:700px;position:relative;left:50%;}
 .zbdt_box { width:1000px; height:auto; overflow:hidden}
-.zbdt_box li {background:url("../images/bg01.png"/*tpa=http://cq176.8090999.net/images/bg01.png*//*tpa=http://3.4.pl.wyxs365.com/images/bg01.png*/) no-repeat; height:750px; width:1000px; margin-top:30px; }
+.zbdt_box li {height:750px; width:1000px; margin-top:30px; }
 .zbdt_box li img{width:840px;height:595px;margin:85px 0px 0px 60px}
 
 
