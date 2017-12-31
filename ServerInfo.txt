@@ -1,0 +1,33 @@
+$BEGIN
+<?xml version="1.0" encoding="GB2312"?>
+<XMLSetup>
+  <ServerList>
+    <Group Name="eEbGaUNqoiMd3FH-MrKZZbeowi">
+      <Server Name="b955irkS2fHRuX35pBKR0RM3Yi">
+        <Child Addrs="DscXuEsFGykrtrJld0CDCOsv1y" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">b955irkS2fHRuX35pBKR0RM3Yi</Child>
+      </Server>
+    </Group>
+  </ServerList>
+  <Url>
+    <Loginframe></Loginframe>
+    <ContactGM></ContactGM>
+    <Payment></Payment>
+    <Register/>
+    <ChangePass/>
+    <LostPass/>
+    <Payment2></Payment2>
+    <Home></Home>
+    <ExitUrl></ExitUrl>
+  </Url>
+  <UpDate/>
+  <ServerConfig>
+    <Sever1>ascFK8TzzS-2G9xvlH4r2LVpCMEPOB+8HmrU0HKsrUnhRTSCWbOgtqGzmEbd1wD4MFCL+zhZ8fK9</Sever1>
+    <Sever2>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever2>
+    <Sever3>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever3>
+    <Sever4>ascFK8TzzS-2G9xvlH4r2LVpCMEPOB+8HmrU0HKsrUnhRTSCWbOgtqGzmEbd1wD4MFCL+zhZ8fK9</Sever4>
+    <Severz>mgY2XdgjWXwzOv+dsMkNS8R4zc1iVz2rtnOmOn83rytwP3UgX6Jw3pwvkVSg8cky3P1DwGUPJ-WkR6Sf34Xn1xoazje7Rniya8id</Severz>
+    <GameName>eEbGaUNqoiMd3FH-MrKZZbeowi</GameName>
+    <ClientCount>Xy3Ae0XC1Cze4rycAP1DDlJB</ClientCount>
+  </ServerConfig>
+</XMLSetup>
+$END
