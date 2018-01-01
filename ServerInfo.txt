@@ -9,7 +9,7 @@ $BEGIN
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>ABJnQbnx74lUJMGaQZuVOGx4N0adqs6xHpaMpb5CZEyLtjbISgi</Loginframe>
+    <Loginframe>lF6=XREMpDenNWebnxb4hT5OuZJTOOg65a</Loginframe>
     <ContactGM>lF6=XREMpDenNWebnxb4hT5OuZJTOOg65a</ContactGM>
     <Payment>bJQImy+fZGvW4BZ1sS+M+qe+JFo8fq4dgEDwESW7kj0LgpsmkUa</Payment>
     <Payment2>bJQImy+fZGvW4BZ1sS+M+qe+JFo8fq4dgEDwESW7kj0LgpsmkUa</Payment2>
