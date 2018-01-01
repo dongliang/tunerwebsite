@@ -2,18 +2,18 @@ $BEGIN
 <?xml version="1.0" encoding="GB2312"?>
 <XMLSetup>
   <ServerList>
-    <Group Name="bPjvVPBVCaUssQxpyi">
-      <Server Name="A+JBK8WRcpUhyWzOQq">
-        <Child Addrs="a2oRrMYviY1YgLMaPq" Port="AANsJAna1NzSyrkcTi">A+JBK8WRcpUhyWzOQq</Child>
+    <Group Name="bpXMuKtKRTggyoXtgq">
+      <Server Name="AfFDmHQpKdsye3UH4q">
+        <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">AfFDmHQpKdsye3UH4q</Child>
       </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>lF6=XREMpDenNWebnxb4hT5OuZJTOOg65a</Loginframe>
-    <ContactGM>lF6=XREMpDenNWebnxb4hT5OuZJTOOg65a</ContactGM>
-    <Payment>bJQImy+fZGvW4BZ1sS+M+qe+JFo8fq4dgEDwESW7kj0LgpsmkUa</Payment>
-    <Payment2>bJQImy+fZGvW4BZ1sS+M+qe+JFo8fq4dgEDwESW7kj0LgpsmkUa</Payment2>
-    <Home>lF6=XREMpDenNWebnxb4hT5OuZJTOOg65a</Home>
+    <Loginframe>ApFEq56PDVpNeTl8zjMVCsiocYC3M=IAPagxaeR6=2R4zqk0RYg</Loginframe>
+    <ContactGM>aqP96uh0qYNVnFeKvjbD3KNoLCcBsqPIGHm9Qvi1PaeR6rkv54g</ContactGM>
+    <Payment>b7ugljkNCrDYkqHLG0+3LvzLB2sD8em=9skumiw0zDxRY+4i2W0</Payment>
+    <Payment2>cHwUjcX0SqTKmL=goYy=HsNEBdy+SPqTeq</Payment2>
+    <Home>cHwUjcX0SqTKmL=goYy=HsNEBdy+SPqTeq</Home>
   </Url>
   <UpDate/>
 </XMLSetup>
