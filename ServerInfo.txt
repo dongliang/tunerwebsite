@@ -2,32 +2,19 @@ $BEGIN
 <?xml version="1.0" encoding="GB2312"?>
 <XMLSetup>
   <ServerList>
-    <Group Name="eEbGaUNqoiMd3FH-MrKZZbeowi">
-      <Server Name="C4xW3OOC6DDs9VbyCs6j8Peuhy">
-        <Child Addrs="BcSnBx1uGUHWRPXv-FWMQcQJBi" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">C4xW3OOC6DDs9VbyCs6j8Peuhy</Child>
+    <Group Name="bPjvVPBVCaUssQxpyi">
+      <Server Name="A+JBK8WRcpUhyWzOQq">
+        <Child Addrs="a2oRrMYviY1YgLMaPq" Port="AANsJAna1NzSyrkcTi">A+JBK8WRcpUhyWzOQq</Child>
       </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe></Loginframe>
-    <ContactGM></ContactGM>
-    <Payment></Payment>
-    <Register/>
-    <ChangePass/>
-    <LostPass/>
-    <Payment2></Payment2>
-    <Home></Home>
-    <ExitUrl></ExitUrl>
+    <Loginframe>ApFEq56PDVpNeTl8zjMVCsiocYC3M=IAPagxaeR6=2R4zqk0RYg</Loginframe>
+    <ContactGM>aqP96uh0qYNVnFeKvjbD3KNoLCcBsqPIGHm9Qvi1PaeR6rkv54g</ContactGM>
+    <Payment>b7ugljkNCrDYkqHLG0+3LvzLB2sD8em=9skumiw0zDxRY+4i2W0</Payment>
+    <Payment2>cHwUjcX0SqTKmL=goYy=HsNEBdy+SPqTeq</Payment2>
+    <Home>cHwUjcX0SqTKmL=goYy=HsNEBdy+SPqTeq</Home>
   </Url>
   <UpDate/>
-  <ServerConfig>
-    <Sever1>aiEKFy2BW6rPaRawKylLv8iMCmgdpfJQOb1h4S6nrnphcl3T4gq</Sever1>
-    <Sever2>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever2>
-    <Sever3>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever3>
-    <Sever4>aiEKFy2BW6rPaRawKylLv8iMCmgdpfJQOb1h4S6nrnphcl3T4gq</Sever4>
-    <Severz>mgY2XdgjWXwzOv+dsMkNS8R4zc1iVz2rtnOmOn83rytwP3UgX6Jw3pwvkVSg8cky3P1DwGUPJ-WkR6Sf34Xn1xoazje7Rniya8id</Severz>
-    <GameName>Lue6KYoCE+DHvNH4H8M9khs0</GameName>
-    <ClientCount>Xy3Ae0XC1Cze4rycAP1DDlJB</ClientCount>
-  </ServerConfig>
 </XMLSetup>
 $END
