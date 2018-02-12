@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 h1{font-family:'微软雅黑';font-weight:normal;color:#fbe173;font-size:25pt;padding-bottom:10px}
 html{overflow-x:hidden; }
@@ -171,7 +171,7 @@ background: url("images/mobile.jpg"/*tpa=http://cq176.8090999.net/css/images/mob
 /*新建*/
 .xinwen_box {  background:url("../images/bg00.png"/*tpa=http://cq176.8090999.net/images/bg00.png*//*tpa=http://3.4.pl.wyxs365.com/images/bg00.png*/) no-repeat; height:750px; width:1000px;   }
 #Version{width:100%;height:820px;position:relative; overflow:hidden;}
-#Flash{width:1920px;height:700px;}
+#Flash{no-repeat center top; clear:both;padding-top:450px;}
 #Header{margin:0 auto -290px -960px;width:1920px;height:700px;position:relative;left:50%;}
 .zbdt_box { width:1000px; height:auto; overflow:hidden}
 .zbdt_box li {height:750px; width:1000px; margin-top:30px; }
